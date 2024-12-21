@@ -15,7 +15,8 @@
 
 
 <h1><b>Business Requirements</b></h1>
-## KP1'S Requirements
+
+##  KP1'S Requirements
 <ol>
   <li>Total Sales: The overall revenue generated from all items sold.</li>
   <li>Average Sales: The average revenue per sale.</li>
