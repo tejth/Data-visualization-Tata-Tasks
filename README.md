@@ -3,6 +3,10 @@
 <br>
 <br>
 
+## Blinkit Major Project
+![1](https://github.com/user-attachments/assets/33bb6e44-163f-4aa7-be62-1d6aac612007)
+
+
 ## Task 1
 <h2>Draft 4 (4 for the CEO and 4 for the CMO) questions on the basis of given Dataset which will be important and relevant to the CEO and CMO. Helping them to make businees decisions.</h2>
 <br>
