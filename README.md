@@ -6,6 +6,10 @@
 ## Blinkit Major Project
 ![1](https://github.com/user-attachments/assets/33bb6e44-163f-4aa7-be62-1d6aac612007)
 
+## SuperStore Analysis
+![Screenshot 2025-05-16 162553](https://github.com/user-attachments/assets/8bbd40e5-079d-4990-b650-263b177f7ee6)
+
+
 
 ## Task 1
 <h2>Draft 4 (4 for the CEO and 4 for the CMO) questions on the basis of given Dataset which will be important and relevant to the CEO and CMO. Helping them to make businees decisions.</h2>
